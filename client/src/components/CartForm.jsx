@@ -33,11 +33,12 @@ const CartForm = (props) => {
         if (!confetti) {
             let sum = 0
             let carsOrdered = []
+            let cost ={}
             for (let orderedCar of Object.keys(currentOrderCount)) {
                 for (let car of cars) {
 
                     if (car.title === orderedCar) {
-                        setCarCost({ ...carCost, [car.title]: car.price })
+                        cost[car.title] = car.price
                         sum += car.price
                         carsOrdered.push(car)
                     }
@@ -45,7 +46,7 @@ const CartForm = (props) => {
             }
 
             setTotal(sum)
-
+            setCarCost(cost)
             setCart(carsOrdered)
         }
     }, [currentOrderCount]);
