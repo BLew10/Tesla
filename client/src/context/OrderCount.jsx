@@ -12,8 +12,6 @@ export const useOrderCount = () => useContext(OrderCountContext)
 
 
 function OrderCountProvider({ children }) {
-    const navigate = useNavigate()
-
 
 
     if (!JSON.parse(window.sessionStorage.getItem("currentOrderCount"))) {
