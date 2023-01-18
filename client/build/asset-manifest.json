@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.407138ec.css",
+    "main.js": "/static/js/main.c44b2ed8.js",
+    "static/media/solar-roof.jpg": "/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
+    "static/media/model-s.jpg": "/static/media/model-s.83cfb9b5584ca21a2ba8.jpg",
+    "static/media/solar-panel.jpg": "/static/media/solar-panel.d7d441d74e34d37c2c00.jpg",
+    "static/media/model-3-display.jpg": "/static/media/model-3-display.0713400e9970ce723718.jpg",
+    "static/media/model-y.jpg": "/static/media/model-y.30acb76aab6f760a753a.jpg",
+    "static/media/new-interior.jpg": "/static/media/new-interior.16586851d57ecfbc22a3.jpg",
+    "static/media/model-3.jpg": "/static/media/model-3.30651f796c26e128fa1b.jpg",
+    "static/media/model-x.jpg": "/static/media/model-x.25937b941a6599342671.jpg",
+    "static/media/model-y-display.jpg": "/static/media/model-y-display.79e91881eed908aaab13.jpg",
+    "static/media/audio.jpg": "/static/media/audio.93bbd9629c3906817112.jpg",
+    "static/media/connected.jpg": "/static/media/connected.e908d6555610dd7fd7d7.jpg",
+    "static/media/accessories.jpg": "/static/media/accessories.027ada94d343f5d81f6d.jpg",
+    "static/media/game.jpg": "/static/media/game.80315756aa7faa12bcf0.jpg",
+    "static/media/teslalogo.png": "/static/media/teslalogo.395874864c6afdee2ab0.png",
+    "static/media/model-y-drive.avif": "/static/media/model-y-drive.1d154d6e51434fc23c8f.avif",
+    "static/media/model-x-drive.avif": "/static/media/model-x-drive.2dcb5bb3a4b77cd1d723.avif",
+    "static/media/model-3-drive.avif": "/static/media/model-3-drive.609d6975f7a87cd45aa0.avif",
+    "static/media/model-s-drive.avif": "/static/media/model-s-drive.5f233002af07de3072e3.avif",
+    "static/media/favicon.ico": "/static/media/favicon.42b87e7b6e757ce522c9.ico",
+    "static/media/logo.svg": "/static/media/logo.f4d2f035361dcd661aa5148c56087904.svg",
+    "index.html": "/index.html",
+    "static/media/down-arrow.svg": "/static/media/down-arrow.9b52668fb01a76a29986.svg",
+    "main.407138ec.css.map": "/static/css/main.407138ec.css.map",
+    "main.c44b2ed8.js.map": "/static/js/main.c44b2ed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407138ec.css",
+    "static/js/main.c44b2ed8.js"
+  ]
+}
