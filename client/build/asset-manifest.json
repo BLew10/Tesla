@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.407138ec.css",
-    "main.js": "/static/js/main.c44b2ed8.js",
+    "main.js": "/static/js/main.f7263e4e.js",
     "static/media/solar-roof.jpg": "/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
     "static/media/model-s.jpg": "/static/media/model-s.83cfb9b5584ca21a2ba8.jpg",
     "static/media/solar-panel.jpg": "/static/media/solar-panel.d7d441d74e34d37c2c00.jpg",
@@ -25,10 +25,10 @@
     "index.html": "/index.html",
     "static/media/down-arrow.svg": "/static/media/down-arrow.9b52668fb01a76a29986.svg",
     "main.407138ec.css.map": "/static/css/main.407138ec.css.map",
-    "main.c44b2ed8.js.map": "/static/js/main.c44b2ed8.js.map"
+    "main.f7263e4e.js.map": "/static/js/main.f7263e4e.js.map"
   },
   "entrypoints": [
     "static/css/main.407138ec.css",
-    "static/js/main.c44b2ed8.js"
+    "static/js/main.f7263e4e.js"
   ]
 }
